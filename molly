@@ -1,12 +1,5 @@
 public class HelloWorld {
-    public static void main(String[] args) {
-<<<<<<< HEAD
-        System.out.println("Hello, Main!");
-    }
+    public static void main(String[] args)
+{
+       System.out.println("Hello, Neel!");}
 }
-=======
-        System.out.println("Hello, World!");
-    }
-}
-
->>>>>>> main
